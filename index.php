@@ -47,7 +47,7 @@ body {
  <br><br>
  <table border="1", bordercolor="white", cellspacing="0" width="100%" bgcolor="white">
    <tr>
-     <td><font size="4" color="#808080", face="Cambria Math">
+     <td bgcolor="#58FAAC"><font size="4" color="#808080"", face="Cambria Math">
       <br>"You cannot escape the responsibility of tomorrow by evading it today" </font>
       <br><font size="2" color="#808080", face="arial">-Abrahan Lincoln </font> <br>
       <br><font size="4" color="#808080", face="Cambria Math"> 
