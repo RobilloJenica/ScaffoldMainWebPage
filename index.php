@@ -15,7 +15,7 @@ body {
    <font size="4", color="#F7E6FF", face= "Courier New">
     What the Present Holds~ </font>
    
-   <font size="4", color="#CCFFFF", face= "Courier New75
+   <font size="4", color="#CCFFFF", face= "Courier New">
     What the Present Holds~ </font>
    
    <font size="4", color="#F7E6FF", face= "Courier New">
