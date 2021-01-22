@@ -50,11 +50,11 @@ body {
      <td bgcolor="#58FAAC"><font size="4" color="black", face="Cambria Math">
       <br>"You cannot escape the responsibility of tomorrow by evading it today" </font>
 	<br><font size="2" color="black", face="arial"> 
-	<i> -Abrahan Lincoln </font> <br> </i>
+	<i> - Abrahan Lincoln </font> <br> </i>
       <br><font size="4" color="black", face="Cambria Math"> 
           "Change your life today. Don't gamble on the future, act now, without delay" </font> 
       <br> <font size="2" color="black", face="arial"> 
-	<i> -Simone de Beauvoir</font> </i>
+	<i> - Simone de Beauvoir</font> </i>
       <br></p>(insert content here*)   
    </tr>  
  </table>
