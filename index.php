@@ -32,7 +32,7 @@ body {
    <tr>
      <td> 
 	  <center>
-	  <img src= "C:\Users\Michael B\Desktop\week3\world.jpg" width="55" , height="55"> 
+	  <img src= "world.jpg" width="55" , height="55"> 
 	  </img><font size="66" color="black", face="Corier New"> THE WORLD </font> 
       </center>
 	 </td>
@@ -42,7 +42,7 @@ body {
 
  
  <br><br>
- <center><img src="C:\Users\Michael B\Desktop\week3\img1.jpg" height="520", width="1220"></img>
+ <center><img src = "img1.jpg" height="520", width="1220"></img>
  
  <br><br>
  <table border="1", bordercolor="white", cellspacing="0" width="100%" bgcolor="white">
