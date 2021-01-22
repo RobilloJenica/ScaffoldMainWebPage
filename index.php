@@ -47,13 +47,14 @@ body {
  <br><br>
  <table border="1", bordercolor="white", cellspacing="0" width="100%" bgcolor="white">
    <tr>
-     <td bgcolor="#58FAAC"><font size="4" color="#808080"", face="Cambria Math">
+     <td bgcolor="#58FAAC"><font size="4" color="black", face="Cambria Math">
       <br>"You cannot escape the responsibility of tomorrow by evading it today" </font>
-      <br><font size="2" color="#808080", face="arial">-Abrahan Lincoln </font> <br>
-      <br><font size="4" color="#808080", face="Cambria Math"> 
+	<br><font size="2" color="black", face="arial"> 
+	<i> -Abrahan Lincoln </font> <br> </i>
+      <br><font size="4" color="black", face="Cambria Math"> 
           "Change your life today. Don't gamble on the future, act now, without delay" </font> 
-      <br> <font size="2" color="#808080", face="arial"> 
-          -Simone de Beauvoir</font>
+      <br> <font size="2" color="black", face="arial"> 
+	<i> -Simone de Beauvoir</font> </i>
       <br></p>(insert content here*)   
    </tr>  
  </table>
