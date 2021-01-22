@@ -32,8 +32,8 @@ body {
    <tr>
      <td> 
 	  <center>
-	  <img src= "world.jpg" height="55", width="55"> 
-	  </img><font size="66" color="black", face="Corier New"> THE WORLD </font> 
+	  <img src= "world.jpg" height="55", width="55"></img>
+	  <font size="66" color="black", face="Corier New"> THE WORLD </font> 
       </center>
 	 </td>
    </tr>  
