@@ -55,7 +55,7 @@ body {
           "Change your life today. Don't gamble on the future, act now, without delay" </font> 
       <br> <font size="2" color="black", face="arial"> 
 	<i> - Simone de Beauvoir</font> </i>
-      <br></p>(insert content here*)   
+	<br></p> <font color = "#808080"> (insert content here*) </font>   
    </tr>  
  </table>
 
